@@ -3,4 +3,5 @@ jeo wrappers repository name short and simple: need quality fabrics
 
 
 click here to visit our site
-jeowrappers.com
+https://github.com/steamxeam/jeoadverts.git
+
